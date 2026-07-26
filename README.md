@@ -52,12 +52,6 @@
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div><br/>
 
-
-
-<!-- GitHub 奖杯🏆 -->
-[![trophy](https://github-profile-trophy-fast.vercel.app/?username=kedreamix&row=1&column=7)](https://kedreamix.github.io)
-
-
 <!--
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=Kedreamix&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
