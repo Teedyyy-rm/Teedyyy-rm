@@ -38,7 +38,7 @@
 | :--- | :--- |
 | **AI / Machine Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, LLMs, RAG, NLP |
 | **Backend Development** | Node.js, Python (FastAPI/Django), Go, RESTful APIs, gRPC |
-| **Frontend Development** | React.js, Next.js, TypeScript, Tailwind CSS |
+| **Frontend Development** | React.js, Next.js, JavaScript, TypeScript, Tailwind CSS |
 | **DevOps & Cloud** | Docker, AWS/GCP, CI/CD, Vector Databases (Pinecone, Milvus) |
 
 </div>
