@@ -1,6 +1,35 @@
-# Hi there, I'm Teedyy 👋
 
-I am a **Fullstack & AI/ML Engineer** dedicated to bridging the gap between intelligent machine learning models and robust, scalable web applications. I love turning complex data into intuitive user experiences.
+
+<div align="center">
+<!-- dynamic typing effect 动态打字效果 -->
+<div >
+  <a href="https://kedreamix.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=835&lines=print(Hi%2C+my+nickname+is+Kedreamix);Welcome+to+my+github!&center=true&size=25" />
+  </a>
+</div>
+<!-- knock code pictures 敲代码的图片 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</picture>
+
+ <!-- for beauty 留个空行好看点 -->
+
+<div>&nbsp;</div>
+
+
+<div align="left">
+<!-- Bảng thống kê GitHub tự động đẩy sang bên phải cho Teedyyy-rm -->
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=Teedyyy-rm&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
+
+### Hi there 🍨
+
+- 👋 Hi, I'm **Teedyy** (`Teedyyy-rm`).
+- 🛠️ I'm a **Fullstack & AI/ML Engineer** dedicated to building intelligent systems.
+- 🧠 Specialized in bridging the gap between smart ML models and scalable web apps.
+- 💬 Keep learning, experimenting, and pushing the boundaries of AI.
 
 ---
 
@@ -13,23 +42,40 @@ I am a **Fullstack & AI/ML Engineer** dedicated to bridging the gap between inte
 | **Frontend Development** | React.js, Next.js, TypeScript, Tailwind CSS |
 | **DevOps & Cloud** | Docker, AWS/GCP, CI/CD, Vector Databases (Pinecone, Milvus) |
 
----
+</div>
 
-## 🤖 Featured Projects
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
-### 🌟 [Project Name 1](Link_dự_án)
-* **Description:** An AI-powered web application that does [tính năng chính của sản phẩm].
-* **Tech Stack:** Next.js, FastAPI, PyTorch, PostgreSQL.
-* **Key Achievement:** Optimized inference time by 40% and served 1k+ active users.
+![GitHub User Contribution](https://github.com/user-attachments/assets/1f56db1a-c779-4885-a47a-f32a83ff9919) 
 
-### 🌟 [Project Name 2](Link_dự_án)
-* **Description:** End-to-end ML pipeline for [bài toán cụ thể, ví dụ: Image Classification / Recommendation].
-* **Tech Stack:** Python, Scikit-Learn, Docker, AWS.
 
----
+<!-- ########################################## 分割 ########################################## -->
+<!-- Quotes 名人名言 -->
+<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div><br/>
 
-## 📈 GitHub Stats
 
-⚡ *Fun fact: I write code that thinks, and interfaces that work.*
 
-📬 **How to reach me:** [Your Email] | [Your LinkedIn]
+<!-- GitHub 奖杯🏆 -->
+[![trophy](https://github-profile-trophy-fast.vercel.app/?username=kedreamix&row=1&column=7)](https://kedreamix.github.io)
+
+
+<!--
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=Kedreamix&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![](https://github-readme-stats.vercel-fast.app/api?username=Kedreamix&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+
+[![Top Langs](https://github-readme-stats.vercel-fast.app/api/top-langs/?username=kedreamix&langs_count=5)](https://github-readme-stats.vercel.app/api/top-langs/?username=kedreamix&langs_count=5)
+
+**Kedreamix/Kedreamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
