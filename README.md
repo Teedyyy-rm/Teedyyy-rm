@@ -1,21 +1,35 @@
-# Hello, I'm Nguyễn Văn A 👋
+# Hi there, I'm Teedyy 👋
 
-I'm a Python Programmer, AI Enthusiast, and a Co-founder of [Tên Tổ Chức](link-tới-tổ-chức).
+I am a **Fullstack & AI/ML Engineer** dedicated to bridging the gap between intelligent machine learning models and robust, scalable web applications. I love turning complex data into intuitive user experiences.
 
-Mô tả ngắn gọn về bản thân hoặc công việc hiện tại của bạn ở đây.
+---
 
-## 🚀 My Work
+## 🚀 Technical Skills
 
-### 🤖 Dự Án Nổi Bật 1
-Mô tả dự án của bạn ở đây...
-* [Link Dự Án 1](url) - Mô tả tính năng chính 1.
-* [Tài Liệu Dự Án](url) - Hướng dẫn cài đặt nhanh.
+| Domain | Technologies |
+| :--- | :--- |
+| **AI / Machine Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, LLMs, RAG, NLP |
+| **Backend Development** | Node.js, Python (FastAPI/Django), Go, RESTful APIs, gRPC |
+| **Frontend Development** | React.js, Next.js, TypeScript, Tailwind CSS |
+| **DevOps & Cloud** | Docker, AWS/GCP, CI/CD, Vector Databases (Pinecone, Milvus) |
 
-### 📦 Các Nghiên Cứu / Sản Phẩm Khác
-Dưới đây là một số mô hình hoặc sản phẩm tôi đã tham gia phát triển:
-* [Sản phẩm A](url) - Mô tả ngắn gọn.
-* [Sản phẩm B](url) - Mô tả ngắn gọn.
+---
 
-## 📌 Personal Projects
-* [Project 1](url) - Dataset hoặc công cụ bạn tự làm.
-* [Project 2](url) - Ứng dụng web, mobile.
+## 🤖 Featured Projects
+
+### 🌟 [Project Name 1](Link_dự_án)
+* **Description:** An AI-powered web application that does [tính năng chính của sản phẩm].
+* **Tech Stack:** Next.js, FastAPI, PyTorch, PostgreSQL.
+* **Key Achievement:** Optimized inference time by 40% and served 1k+ active users.
+
+### 🌟 [Project Name 2](Link_dự_án)
+* **Description:** End-to-end ML pipeline for [bài toán cụ thể, ví dụ: Image Classification / Recommendation].
+* **Tech Stack:** Python, Scikit-Learn, Docker, AWS.
+
+---
+
+## 📈 GitHub Stats
+
+⚡ *Fun fact: I write code that thinks, and interfaces that work.*
+
+📬 **How to reach me:** [Your Email] | [Your LinkedIn]
