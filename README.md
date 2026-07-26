@@ -22,7 +22,7 @@
 
 <div align="left">
 <!-- Bảng thống kê GitHub tự động đẩy sang bên phải cho Teedyyy-rm -->
-<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=Teedyyy-rm&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
+<!-- <img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=Teedyyy-rm&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" /> -->
 
 ### Hi there 🍨
 
