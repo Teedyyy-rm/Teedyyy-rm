@@ -27,9 +27,8 @@
 ### Hi there 🍨
 
 - 👋 Hi, I'm **Teedyy** (`Teedyyy-rm`).
-- 🛠️ I'm a **Fullstack & AI/ML Engineer** dedicated to building intelligent systems.
-- 🧠 Specialized in bridging the gap between smart ML models and scalable web apps.
-- 💬 Keep learning, experimenting, and pushing the boundaries of AI.
+- 🛠️ I'm a **Fullstack & AI/ML Engineer** specializing in bridging the gap between smart ML models and scalable web apps.
+- 💬 Always learning, experimenting, and pushing the boundaries of AI.
 
 ---
 
